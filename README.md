@@ -294,43 +294,55 @@ Lembrando que como essa é minha primeira sprint, eu ainda não fiz a sprint de 
 # Respostas das perguntas
 
 ### 1- Quantos filmes possuem avaliação?
-![Captura de tela 2025-12-21 155554.png](./Captura de tela 2025-12-21 155554.png "Captura de tela 2025-12-21 155554.png")
+<img width="219" height="52" alt="Captura de tela 2025-12-21 155554" src="https://github.com/user-attachments/assets/b1a579c7-908c-4e9d-9a24-3710a01ef60e" />
 
 ### 2- Qual a nota média geral dos filmes?
-![Captura de tela 2025-12-21 155911.png](./Captura de tela 2025-12-21 155911.png "Captura de tela 2025-12-21 155911.png")
+<img width="205" height="56" alt="Captura de tela 2025-12-21 155911" src="https://github.com/user-attachments/assets/9cc8fa3e-561f-4355-8b81-6aa4f282e412" />
+
 
 ### 3- Qual o filme mais bem avaliado?
-![Captura de tela 2025-12-21 155946.png](./Captura de tela 2025-12-21 155946.png "Captura de tela 2025-12-21 155946.png")
+<img width="597" height="56" alt="Captura de tela 2025-12-21 155946" src="https://github.com/user-attachments/assets/e37872be-9787-4a83-9537-84569f48334c" />
+
 
 ### 4- Qual o filme com maior número de votos?
-![Captura de tela 2025-12-21 160047.png](./Captura de tela 2025-12-21 160047.png "Captura de tela 2025-12-21 160047.png")
+<img width="358" height="55" alt="Captura de tela 2025-12-21 160047" src="https://github.com/user-attachments/assets/17bf5481-3295-4a1e-887c-952eaf6225dd" />
+
 
 ### 5- Quantos filmes têm nota acima de 8?
-![Captura de tela 2025-12-21 160111.png](./Captura de tela 2025-12-21 160111.png "Captura de tela 2025-12-21 160111.png")
+<img width="187" height="61" alt="Captura de tela 2025-12-21 160111" src="https://github.com/user-attachments/assets/fc289e5c-fc19-41ac-af5e-933351dd7887" />
+
 
 ### 6- Quantos filmes têm menos de 100 votos?
-![Captura de tela 2025-12-21 160137.png](./Captura de tela 2025-12-21 160137.png "Captura de tela 2025-12-21 160137.png")
+<img width="182" height="56" alt="Captura de tela 2025-12-21 160137" src="https://github.com/user-attachments/assets/e880f931-77ff-4fe5-b462-8534d048056f" />
+
 
 ### 7- Qual a distribuição das notas médias?
-![Captura de tela 2025-12-21 160254.png](./Captura de tela 2025-12-21 160254.png "Captura de tela 2025-12-21 160254.png")
+<img width="577" height="453" alt="Captura de tela 2025-12-21 160254" src="https://github.com/user-attachments/assets/0c272ab4-678b-4b89-b396-d5924ea0e7cd" />
+
 
 ### 8- Top 10 filmes mais bem avaliados (mínimo 1000 votos)
-![Captura de tela 2025-12-21 160408.png](./Captura de tela 2025-12-21 160408.png "Captura de tela 2025-12-21 160408.png")
+<img width="885" height="452" alt="Captura de tela 2025-12-21 160408" src="https://github.com/user-attachments/assets/9af3f92e-913d-40b3-a78a-5b1927b98e82" />
+
 
 ### 9- Top 10 filmes com mais votos
-![Captura de tela 2025-12-21 160445.png](./Captura de tela 2025-12-21 160445.png "Captura de tela 2025-12-21 160445.png")
+<img width="1470" height="545" alt="Captura de tela 2025-12-21 160445" src="https://github.com/user-attachments/assets/6f4a5460-7eb0-4457-b9e9-17178a8da61c" />
+
 
 ### 10- Filmes “cult”: nota alta, poucos votos
-![Captura de tela 2025-12-21 160526.png](./Captura de tela 2025-12-21 160526.png "Captura de tela 2025-12-21 160526.png")
+<img width="727" height="280" alt="Captura de tela 2025-12-21 160526" src="https://github.com/user-attachments/assets/d4503418-7769-4b23-a493-6a9222b6cc37" />
+
 
 ### 11- Filmes “populares”: muitos votos, nota mediana
-![Captura de tela 2025-12-21 160603.png](./Captura de tela 2025-12-21 160603.png "Captura de tela 2025-12-21 160603.png")
+<img width="845" height="451" alt="Captura de tela 2025-12-21 160603" src="https://github.com/user-attachments/assets/6742fe05-63af-432c-a6b3-4a280a8c8713" />
+
 
 ### 12- Quais filmes Christopher Nolan dirigiu?
-![Captura de tela 2025-12-21 154940.png](./Captura de tela 2025-12-21 154940.png "Captura de tela 2025-12-21 154940.png")
+<img width="565" height="330" alt="Captura de tela 2025-12-21 154940" src="https://github.com/user-attachments/assets/e815ecc7-db6e-44a9-8b20-77526afeb947" />
+
 
 ### 13- Quantos filmes cada diretor dirigiu?
-![Captura de tela 2025-12-21 155206.png](./Captura de tela 2025-12-21 155206.png "Captura de tela 2025-12-21 155206.png")
+<img width="337" height="411" alt="Captura de tela 2025-12-21 155206" src="https://github.com/user-attachments/assets/1112ba79-87e8-420e-aab3-24d589e4c4e8" />
+
 
 ### 14- Quais os 5 filmes mais bem avaliados do Christopher Nolan?
-![Captura de tela 2025-12-21 155344.png](./Captura de tela 2025-12-21 155344.png "Captura de tela 2025-12-21 155344.png")
+<img width="843" height="548" alt="Captura de tela 2025-12-21 155344" src="https://github.com/user-attachments/assets/abd5b1a3-70ea-4536-b5b6-a5ea3d889080" />
