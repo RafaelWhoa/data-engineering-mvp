@@ -56,6 +56,38 @@ Os dados foram obtidos no portal oficial da base de dados do IMDb (https://datas
 
 Os dados foram coletados e armazenados em um bucket S3 diretamente na plataforma da Amazon AWS. Posteriormente foi feito a conexão entre a conta Databricks e a plataforma Amazon AWS para manipular os dados utilizando o Apache Spark. Para isso, foi necessário configurar parâmetros de acesso e autênticação entre as plataformas e obter as chaves de acesso para conseguir o devido acesso ao armazenamento em nuvem da Amazon AWS.
 
+## **Estrutura da plataforma Amazon S3**
+
+<img width="2334" height="753" alt="Captura de tela 2025-12-22 232822" src="https://github.com/user-attachments/assets/c06a0206-324c-4e94-9e83-7418a0109545" />
+**Legenda:** Página inicial do bucket imdb-mvp
+
+<br>
+
+<img width="1663" height="368" alt="Captura de tela 2025-12-22 232842" src="https://github.com/user-attachments/assets/8a84e231-32ff-4e03-887a-8d74a9692c45" />
+**Legenda:** Estrutura do diretório da camada bronze
+
+<br>
+
+<img width="1663" height="1079" alt="Captura de tela 2025-12-22 232935" src="https://github.com/user-attachments/assets/b98eed53-293e-47e3-8a7d-72da602537cc" />
+**Legenda:** Diretório da camada bronze dos dados title.basics (Informações básicas dos títulos). Em formato Delta e com arquivos .parquet
+
+<br>
+
+<img width="1684" height="767" alt="Captura de tela 2025-12-22 232951" src="https://github.com/user-attachments/assets/c7e88c5b-b51d-4c2b-bae9-b68acd1e7686" />
+**Legenda:** Diretório da camada silver dos dados title.basics (Informações básicas dos títulos). É possivel observar a diminuição de arquivos em relação à camada bronze
+
+<br>
+
+<img width="1692" height="406" alt="Captura de tela 2025-12-22 233000" src="https://github.com/user-attachments/assets/4ae52772-d21a-48e5-9147-0c513ee923ea" />
+**Legenda:** Diretório da camada bronze com subpastas dos fatos, pontes e dimensões
+
+<br>
+
+<img width="1668" height="394" alt="Captura de tela 2025-12-22 233010" src="https://github.com/user-attachments/assets/a62b4d24-816a-4afc-898b-27d59b1b755b" />
+**Legenda:** Diretório do fato avaliação de filmes em formato Delta e arquivos .parquet
+
+<br>
+
 ### **3- Modelagem**
 O esquema utilizado foi o Estrela com fato e dimensões:
 
